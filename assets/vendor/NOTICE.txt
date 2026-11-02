@@ -1,0 +1,2 @@
+Mediabunny 1.65.0 + AAC/FLAC extensions: https://github.com/Vanilagy/mediabunny (MPL-2.0). AAC uses FFmpeg; FLAC uses libFLAC.
+LAME/lamejs 1.2.1: https://github.com/zhuker/lamejs and https://lame.sourceforge.net (LGPL). Source packages accompany this distribution.
