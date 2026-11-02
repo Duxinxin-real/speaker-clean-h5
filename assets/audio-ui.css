@@ -16,3 +16,6 @@
 
 /* Acoustic ripple identity, restrained launch motion. */
 .brand-aura{display:none}.brand-icon{width:108px;height:108px;border-radius:25px;margin-bottom:27px;filter:drop-shadow(0 12px 22px #087eff12)}.brand-lockup h2{font-size:25px;letter-spacing:-.6px;font-weight:600}.slice-one{clip-path:inset(0 64% 0 0);animation:acoustic-reveal .6s .05s both}.slice-two{clip-path:inset(0 37% 0 36%);animation:acoustic-reveal .6s .2s both}.slice-three{clip-path:inset(0 0 0 63%);animation:acoustic-reveal .6s .35s both}@keyframes acoustic-reveal{from{opacity:0;transform:translateX(-3px)}to{opacity:1;transform:translateX(0)}}
+
+/* User-drawn horizontal ribbon waveform. */
+.brand-icon{width:116px;height:116px;border-radius:27px}.slice-one{clip-path:inset(0 66% 0 0)}.slice-two{clip-path:inset(0 33% 0 34%)}.slice-three{clip-path:inset(0 0 0 67%)}
